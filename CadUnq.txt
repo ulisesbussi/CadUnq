@@ -1,0 +1,9 @@
+This is the first File in this Project.
+
+Este proyecto cuenta con la información adicional, 
+Scripts, videos y otros, complementarios
+al trabajo presentado en AADECA18 titulado:
+
+Diseño CAD y simulación de un 
+manipulador robótico con fines 
+educativos
