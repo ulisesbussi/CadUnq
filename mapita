@@ -8,7 +8,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff0000",
-        "fill-opacity": 0.2,
+        "fill-opacity": 0.3,
         "name": "poly1"
       },
       "geometry": {
@@ -91,8 +91,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill": "#ff0000",
+        "fill-opacity": 0.3,
         "name": "poly3"
       },
       "geometry": {
@@ -129,8 +129,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill": "#ff0000",
+        "fill-opacity": 0.3,
         "name": "poly4"
       },
       "geometry": {
@@ -171,8 +171,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill": "#ff0000",
+        "fill-opacity": 0.3,
         "name": "poly5"
       },
       "geometry": {
@@ -217,8 +217,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill": "#ff0000",
+        "fill-opacity": 0.3,
         "name": "poly6"
       },
       "geometry": {
@@ -264,7 +264,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.3,
         "name": "poly7"
       },
       "geometry": {
